@@ -2,7 +2,7 @@
 
 This is a nice and smooth glowing effect. Psychedelic effect better said.
 
-I practiced here CSS drawing, borders, filter like drop-shadow and hue-rotate, sync transformation rotations and more.
+I practiced here CSS drawing, borders, filters like drop-shadow and hue-rotate, synced transformation rotations and more.
 
 A psychedelic HTML and CSS only code.
 
